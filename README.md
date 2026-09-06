@@ -2,7 +2,7 @@
 
 Trang web tin tức Black Friday và xe hơi, bố cục dạng lưới (grid) kết hợp flexbox, có hiệu ứng hover.
 
-🔗 **Demo:** [https://baitap-vtyf.vercel.app/](https://baitap-vtyf.vercel.app/)
+🔗 **Link bài làm:** [https://baitap-vtyf.vercel.app/](https://baitap-vtyf.vercel.app/)
 
 ## Cấu trúc file
 ```
