@@ -3,6 +3,8 @@
 ## 📋 Giới Thiệu
 Đây là một trang web tin tức về Black Friday và xe hơi, được xây dựng bằng **HTML** và **CSS**. Trang web có bố cục lưới (grid) với hiệu ứng hover tương tác.
 
+🔗 **Demo:** [https://baitap-vtyf.vercel.app/](https://baitap-vtyf.vercel.app/)
+
 ---
 
 ## 📂 Cấu Trúc File
